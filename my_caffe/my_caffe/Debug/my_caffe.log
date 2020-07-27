@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  common.cpp
+  main.cpp
+  正在生成代码...
+gflags_nothreads_static_debug.lib(gflags.cc.obj) : warning LNK4099: 未找到 PDB“gflags_nothreads_static.pdb”(使用“gflags_nothreads_static_debug.lib(gflags.cc.obj)”或在“D:\test\my_caffe\Debug\gflags_nothreads_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gflags_nothreads_static_debug.lib(gflags_reporting.cc.obj) : warning LNK4099: 未找到 PDB“gflags_nothreads_static.pdb”(使用“gflags_nothreads_static_debug.lib(gflags_reporting.cc.obj)”或在“D:\test\my_caffe\Debug\gflags_nothreads_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gflags_nothreads_static_debug.lib(gflags_completions.cc.obj) : warning LNK4099: 未找到 PDB“gflags_nothreads_static.pdb”(使用“gflags_nothreads_static_debug.lib(gflags_completions.cc.obj)”或在“D:\test\my_caffe\Debug\gflags_nothreads_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  my_caffe.vcxproj -> D:\test\my_caffe\Debug\my_caffe.exe
+  my_caffe.vcxproj -> D:\test\my_caffe\Debug\my_caffe.pdb (Full PDB)
